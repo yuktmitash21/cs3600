@@ -1,0 +1,1597 @@
+relationship = Own-child
+|---education = Masters
+|---|---<=50K
+|---education = Prof-school
+|---|---<=50K
+|---education = 12th
+|---|---<=50K
+|---education = Assoc-voc
+|---|---<=50K
+|---education = 1st-4th
+|---|---<=50K
+|---education = Assoc-acdm
+|---|---<=50K
+|---education = HS-grad
+|---|---sex = Male
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---marital.status = Separated
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Widowed
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Divorced
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Never-married
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---sex = Female
+|---|---|---<=50K
+|---education = Bachelors
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = 9th
+|---|---<=50K
+|---education = 5th-6th
+|---|---<=50K
+|---education = Some-college
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---sex = Male
+|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---marital.status = Separated
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Widowed
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Divorced
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Never-married
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---sex = Male
+|---|---|---|---marital.status = Separated
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Widowed
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Divorced
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Never-married
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---|--->50K
+|---|---|---sex = Female
+|---|---|---|---<=50K
+|---education = 11th
+|---|---<=50K
+|---education = 10th
+|---|---<=50K
+|---education = Doctorate
+|---|---<=50K
+|---education = Preschool
+|---|---<=50K
+|---education = 7th-8th
+|---|---<=50K
+relationship = Wife
+|---education = Masters
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = Prof-school
+|---|--->50K
+|---education = 12th
+|---|--->50K
+|---education = Assoc-voc
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = 1st-4th
+|---|--->50K
+|---education = Assoc-acdm
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = HS-grad
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = Bachelors
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = 9th
+|---|--->50K
+|---education = 5th-6th
+|---|---<=50K
+|---education = Some-college
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---education = 11th
+|---|--->50K
+|---education = 10th
+|---|--->50K
+|---education = Doctorate
+|---|--->50K
+|---education = Preschool
+|---|--->50K
+|---education = 7th-8th
+|---|--->50K
+relationship = Unmarried
+|---education = Masters
+|---|---sex = Male
+|---|---|--->50K
+|---|---sex = Female
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---<=50K
+|---education = Prof-school
+|---|---sex = Male
+|---|---|--->50K
+|---|---sex = Female
+|---|---|---<=50K
+|---education = 12th
+|---|---<=50K
+|---education = Assoc-voc
+|---|---<=50K
+|---education = 1st-4th
+|---|---<=50K
+|---education = Assoc-acdm
+|---|---marital.status = Separated
+|---|---|--->50K
+|---|---marital.status = Widowed
+|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---sex = Male
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|--->50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = HS-grad
+|---|---marital.status = Separated
+|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|---sex = Male
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|--->50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|--->50K
+|---|---|---|---race = White
+|---|---|---|---|--->50K
+|---|---|---|---race = Other
+|---|---|---|---|--->50K
+|---|---|---|---race = Black
+|---|---|---|---|--->50K
+|---|---|---sex = Female
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---sex = Male
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---sex = Male
+|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = Bachelors
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---sex = Male
+|---|---|---|--->50K
+|---|---|---sex = Female
+|---|---|---|---marital.status = Separated
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Widowed
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Divorced
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---|--->50K
+|---|---|---|---marital.status = Never-married
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = 9th
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = 5th-6th
+|---|---<=50K
+|---education = Some-college
+|---|---marital.status = Separated
+|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|--->50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|--->50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = 11th
+|---|---<=50K
+|---education = 10th
+|---|---marital.status = Separated
+|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = Doctorate
+|---|--->50K
+|---education = Preschool
+|---|---<=50K
+|---education = 7th-8th
+|---|---<=50K
+relationship = Other-relative
+|---education = Masters
+|---|--->50K
+|---education = Prof-school
+|---|---<=50K
+|---education = 12th
+|---|---<=50K
+|---education = Assoc-voc
+|---|---<=50K
+|---education = 1st-4th
+|---|---<=50K
+|---education = Assoc-acdm
+|---|---<=50K
+|---education = HS-grad
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|--->50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = Bachelors
+|---|---sex = Male
+|---|---|--->50K
+|---|---sex = Female
+|---|---|---<=50K
+|---education = 9th
+|---|---<=50K
+|---education = 5th-6th
+|---|---<=50K
+|---education = Some-college
+|---|---marital.status = Separated
+|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|--->50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = 11th
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|--->50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = 10th
+|---|---<=50K
+|---education = Doctorate
+|---|--->50K
+|---education = Preschool
+|---|---<=50K
+|---education = 7th-8th
+|---|---<=50K
+relationship = Husband
+|---education = Masters
+|---|---race = Asian-Pac-Islander
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---education = Prof-school
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---education = 12th
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = Assoc-voc
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|--->50K
+|---education = 1st-4th
+|---|---<=50K
+|---education = Assoc-acdm
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = HS-grad
+|---|---race = Asian-Pac-Islander
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---education = Bachelors
+|---|---race = Asian-Pac-Islander
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|--->50K
+|---education = 9th
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = 5th-6th
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = Some-college
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---education = 11th
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---<=50K
+|---education = 10th
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = Doctorate
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = Preschool
+|---|---<=50K
+|---education = 7th-8th
+|---|---race = Asian-Pac-Islander
+|---|---|---<=50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|---<=50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---race = Other
+|---|---|---<=50K
+|---|---race = Black
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---<=50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+relationship = Not-in-family
+|---education = Masters
+|---|---marital.status = Separated
+|---|---|--->50K
+|---|---marital.status = Widowed
+|---|---|--->50K
+|---|---marital.status = Divorced
+|---|---|---sex = Male
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---sex = Male
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = Prof-school
+|---|---race = Asian-Pac-Islander
+|---|---|--->50K
+|---|---race = Amer-Indian-Eskimo
+|---|---|--->50K
+|---|---race = White
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|--->50K
+|---|---race = Other
+|---|---|--->50K
+|---|---race = Black
+|---|---|--->50K
+|---education = 12th
+|---|---marital.status = Separated
+|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|--->50K
+|---|---marital.status = Divorced
+|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = Assoc-voc
+|---|---sex = Male
+|---|---|---marital.status = Separated
+|---|---|---|--->50K
+|---|---|---marital.status = Widowed
+|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|--->50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|--->50K
+|---|---|---marital.status = Never-married
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|--->50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|--->50K
+|---|---|---|---race = White
+|---|---|---|---|--->50K
+|---|---|---|---race = Other
+|---|---|---|---|--->50K
+|---|---|---|---race = Black
+|---|---|---|---|--->50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|--->50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|--->50K
+|---|---sex = Female
+|---|---|---marital.status = Separated
+|---|---|---|---<=50K
+|---|---|---marital.status = Widowed
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|--->50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|--->50K
+|---|---|---|---race = White
+|---|---|---|---|--->50K
+|---|---|---|---race = Other
+|---|---|---|---|--->50K
+|---|---|---|---race = Black
+|---|---|---|---|--->50K
+|---|---|---marital.status = Divorced
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---<=50K
+|---|---|---marital.status = Never-married
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---<=50K
+|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---<=50K
+|---education = 1st-4th
+|---|---<=50K
+|---education = Assoc-acdm
+|---|---sex = Male
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---marital.status = Separated
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Widowed
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Divorced
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-spouse-absent
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Never-married
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-AF-spouse
+|---|---|---|---|---<=50K
+|---|---|---|---marital.status = Married-civ-spouse
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|--->50K
+|---|---sex = Female
+|---|---|---<=50K
+|---education = HS-grad
+|---|---marital.status = Separated
+|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|---sex = Male
+|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---sex = Male
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = Bachelors
+|---|---marital.status = Separated
+|---|---|--->50K
+|---|---marital.status = Widowed
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|--->50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|--->50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---|---race = Other
+|---|---|---|--->50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|--->50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|--->50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = 9th
+|---|---<=50K
+|---education = 5th-6th
+|---|---<=50K
+|---education = Some-college
+|---|---marital.status = Separated
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|---sex = Male
+|---|---|---|--->50K
+|---|---|---sex = Female
+|---|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---sex = Male
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---|---sex = Female
+|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|--->50K
+|---|---marital.status = Never-married
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---sex = Male
+|---|---|---|---|--->50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|--->50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = 11th
+|---|---marital.status = Separated
+|---|---|---<=50K
+|---|---marital.status = Widowed
+|---|---|---<=50K
+|---|---marital.status = Divorced
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|---<=50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---<=50K
+|---|---|---race = White
+|---|---|---|---sex = Male
+|---|---|---|---|---<=50K
+|---|---|---|---sex = Female
+|---|---|---|---|---<=50K
+|---|---|---race = Other
+|---|---|---|---<=50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|---<=50K
+|---|---marital.status = Never-married
+|---|---|---<=50K
+|---|---marital.status = Married-AF-spouse
+|---|---|---<=50K
+|---|---marital.status = Married-civ-spouse
+|---|---|---<=50K
+|---education = 10th
+|---|---sex = Male
+|---|---|---race = Asian-Pac-Islander
+|---|---|---|--->50K
+|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|--->50K
+|---|---|---race = White
+|---|---|---|--->50K
+|---|---|---race = Other
+|---|---|---|--->50K
+|---|---|---race = Black
+|---|---|---|---<=50K
+|---|---sex = Female
+|---|---|---<=50K
+|---education = Doctorate
+|---|---marital.status = Separated
+|---|---|--->50K
+|---|---marital.status = Widowed
+|---|---|--->50K
+|---|---marital.status = Divorced
+|---|---|---sex = Male
+|---|---|---|--->50K
+|---|---|---sex = Female
+|---|---|---|---race = Asian-Pac-Islander
+|---|---|---|---|---<=50K
+|---|---|---|---race = Amer-Indian-Eskimo
+|---|---|---|---|---<=50K
+|---|---|---|---race = White
+|---|---|---|---|---<=50K
+|---|---|---|---race = Other
+|---|---|---|---|---<=50K
+|---|---|---|---race = Black
+|---|---|---|---|---<=50K
+|---|---marital.status = Married-spouse-absent
+|---|---|--->50K
+|---|---marital.status = Never-married
+|---|---|--->50K
+|---|---marital.status = Married-AF-spouse
+|---|---|--->50K
+|---|---marital.status = Married-civ-spouse
+|---|---|--->50K
+|---education = Preschool
+|---|---<=50K
+|---education = 7th-8th
+|---|---<=50K
